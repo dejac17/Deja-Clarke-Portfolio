@@ -60,6 +60,7 @@ a:hover {
 
 .logo {
   font-size: 2rem;
+  color: #f96d34;
 }
 
 .logo:hover {
@@ -241,12 +242,12 @@ section {
 
 .btn-color-1,
 .btn-color-2:hover {
-  background: rgb(53, 53, 53);
+  background: #f96d34;
   color: white;
 }
 
 .btn-color-1:hover {
-  background: rgb(0, 0, 0);
+  background: #ce4e1a;
 }
 
 .btn-color-2 {
